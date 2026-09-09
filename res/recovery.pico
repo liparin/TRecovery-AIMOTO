@@ -1,0 +1,4 @@
+INIT 230X230
+ @steup set = 230x230
+  @steup 0x0000
+OPEN = recovery-res.dat
