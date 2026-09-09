@@ -1,0 +1,2 @@
+ramdisk = fastboot
+fdm mode -0x00000
